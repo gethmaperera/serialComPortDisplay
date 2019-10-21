@@ -1,0 +1,9 @@
+D:\Enigma\serial\SerialPortDisplay\bin\Release\SerialPortDisplay.exe
+D:\Enigma\serial\SerialPortDisplay\bin\Release\SerialPortDisplay.pdb
+D:\Enigma\serial\SerialPortDisplay\obj\Release\ResolveAssemblyReference.cache
+D:\Enigma\serial\SerialPortDisplay\obj\Release\SerialPortExample.Form1.resources
+D:\Enigma\serial\SerialPortDisplay\obj\Release\SerialPortExample.Properties.Resources.resources
+D:\Enigma\serial\SerialPortDisplay\obj\Release\SerialPortSample.serialPortSettingsControl.resources
+D:\Enigma\serial\SerialPortDisplay\obj\Release\SerialPortDisplay.csproj.GenerateResource.Cache
+D:\Enigma\serial\SerialPortDisplay\obj\Release\SerialPortDisplay.exe
+D:\Enigma\serial\SerialPortDisplay\obj\Release\SerialPortDisplay.pdb
